@@ -1,6 +1,0 @@
----
-title: "PROGRAMMING"
-tags:
-- "COMPUTER"
----
-
