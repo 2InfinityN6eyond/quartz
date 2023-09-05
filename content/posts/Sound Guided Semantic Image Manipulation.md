@@ -1,8 +1,9 @@
 ---
-title: "Sound-Guided Semantic Image Manipulation"
+title: Sound-Guided Semantic Image Manipulation
 tags:
-- "PAPER REVIEW"
-- "COMPUTER VISION"
+  - MACHINE_LEARNING
+  - MULTI_MODAL
+  - PAPER_REVIEW
 ---
 
 

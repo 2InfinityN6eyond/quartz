@@ -1,9 +1,8 @@
 ---
-title: "Diffusion and Score Based Generated Models"
+title: Diffusion and Score Based Generated Models
 tags:
-- "paper review"
-- "computer vision"
-- "generative AI"
+  - MACHINE_LEARNING
+  - GENERATIVE_MODEL
 ---
 
 generative model을 만들기 위해서는 데이터의 probability distribution을 알아야 함. 
