@@ -16,6 +16,15 @@ tags:
 	``` bash
 		/Users/$USER/Library/Mobile Documents/iCloud~md~obsidian/Documents/\[Vault 이름]
 ```
+
+``` bash
+/Users/$USER/Library/Mobile Documents/iCloud~md~obsidian/Documents/[Vault 이름]
+```
+``` bash
+/Users/$USER/Library/Mobile Documents/iCloud~md~obsidian/Documents/[Vault 이름]
+```
+
+
 	- Windows에서도 동기화하기
 		- 아직 잘 안됨
 	- Ubuntu에서도 동기화하기 
