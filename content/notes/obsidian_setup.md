@@ -2,22 +2,22 @@
 title: "obsidian_setup"
 ---
 
-- 많은 노트 앱들이 있다. 비교해보자
-	- obsidian
-	- onenote
-		- 체감상 동기화가 엄청 빠르다
-	- margin note
-		- 14일 무료체험기간에 써보려했는데 그동안 안써서 어떤지 잘 모름. 너무 비싸서 결제를 못하겠음 - 창업지원금으로 해볼까?
-	- upnote
-		- null
-	- goodnotes
-		- PDF에 필기하기 좋음
-		- 일기랑 플래너를 씀
-			- 이래저래 다른 앱을 써봐도 결국 아날로그틱한걸로 돌아오게 되더라
-	- notes (애플 기본앱)
-		- 끄적이기용으로 좋음
+## 목적
+- 내 obsidian 설정을 기록해둔다
 
-- 너무 산만해져서 잘 통합해봐야 되는데... 그게 쉽지가 않다.
+## Plugin
+### Plugin 사용
+- advanced tables
+	- 표를 편하게 그릴 수 있도록 해준다
+	- hotkey
+- colored text
+	- 텍스트 색을 설정할 수 있도록 해준다.
+	- hotkey
+		- color text
+			- option + C
+		- change color forward
+			- option + shift + C
+### Plugin 제작
 
 
 - obsidian
@@ -33,3 +33,4 @@ title: "obsidian_setup"
 	- OS간 옵시디언 설정을 동기화하는 법
 		- macOS - iPadOS - iOS
 		- macOS-Linux-Windows
+
