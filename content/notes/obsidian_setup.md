@@ -12,6 +12,10 @@ tags:
 ## 노트 동기화
 - iCloud Drive 이용
 	- macOS, iOS 간의 동기화가 매우 편해진다.
+		- macOS 에서 아래와 같은 경로에 iCloud Drive obsidian 폴더가 있을 것임
+		``` bash
+	/Users/$USER/Library/Mobile Documents/iCloud~md~obsidian/Documents/[Vault 이름]
+```
 	- Windows에서도 동기화하기
 		- 아직 잘 안됨
 	- Ubuntu에서도 동기화하기 
