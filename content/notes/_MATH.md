@@ -1,3 +1,5 @@
 ---
-title: "MATH"
+title: MATH
+tags:
+  - MATH
 ---

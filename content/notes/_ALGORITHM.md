@@ -1,2 +1,5 @@
-title: "ALGORITHM"
+---
+title: ALGORITHM
+tags:
+  - ALGORITHM
 ---

@@ -1,3 +1,5 @@
 ---
-title: "META"
+title: META
+tags:
+  - META
 ---

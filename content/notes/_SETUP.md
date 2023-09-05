@@ -1,3 +1,5 @@
 ---
-title: "SETUP"
+title: SETUP
+tags:
+  - SETUP
 ---

@@ -1,0 +1,6 @@
+---
+title: OPERATING_SYSTEM
+tags:
+  - COMPUTER
+  - OPERATING_SYSTEM
+---

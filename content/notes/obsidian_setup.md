@@ -1,9 +1,26 @@
 ---
-title: "obsidian_setup"
+title: obsidian_setup
+tags:
+  - SETUP
+  - DIGITAL_GARDEN
+  - COMPUTER
 ---
 
 ## 목적
 - 내 obsidian 설정을 기록해둔다
+
+## 노트 동기화
+- iCloud Drive 이용
+	- macOS, iOS 간의 동기화가 매우 편해진다.
+	- Windows에서도 동기화하기
+		- 아직 잘 안됨
+	- Ubuntu에서도 동기화하기 
+		- 아직 잘 안됨
+- github 이용
+	- .gitignore에 반드시 .obsidian/ 을 추가하자. 설정파일이 OS별로 달라서 꼬인다.
+
+## 설정 동기화
+- 
 
 ## Plugin
 ### Plugin 사용

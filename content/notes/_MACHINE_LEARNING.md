@@ -1,3 +1,5 @@
 ---
-title: "MACHINE LEARNING"
+title: MACHINE LEARNING
+tags:
+  - MACHINE_LEARNING
 ---

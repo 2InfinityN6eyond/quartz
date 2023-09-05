@@ -1,3 +1,5 @@
 ---
-title: "DIGITAL GARDEN"
+title: DIGITAL GARDEN
+tags:
+  - DIGITAL_GARDEN
 ---

@@ -1,6 +1,7 @@
 ---
-title: "PROGRAMMING"
+title: PROGRAMMING
 tags:
-- "COMPUTER"
+  - COMPUTER
+  - PROGRAMMING
 ---
 

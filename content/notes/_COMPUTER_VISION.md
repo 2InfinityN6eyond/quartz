@@ -1,3 +1,5 @@
 ---
-title: "COMPUTER_VISION"
+title: COMPUTER_VISION
+tags:
+  - COMPUTER_VISION
 ---
