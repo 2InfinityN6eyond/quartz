@@ -1,8 +1,8 @@
 ---
-title: "mind web"
+title: mind web
 tags:
-- projects
-- ideas
+  - ideas
+  - PROJECT
 ---
 
 - 아이디어

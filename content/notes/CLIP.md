@@ -1,8 +1,0 @@
----
-title: CLIP
-tags:
-  - MACHINE_LEARNING
-  - MULTI_MODAL
-  - PROGRAMMING
-  - PAPER_REVIEW
----

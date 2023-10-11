@@ -17,9 +17,8 @@ tags:
 		/Users/$USER/Library/Mobile Documents/iCloud~md~obsidian/Documents/[Vault 이름]
 		```
 
-
 	- Windows에서도 동기화하기
-		- 아직 잘 안됨
+		- Windows용 oCloud drive 앱이 있고 거기에 obsidian document 디렉토리가 있긴 하지만 
 	- Ubuntu에서도 동기화하기 
 		- 아직 잘 안됨
 - github 이용
@@ -41,6 +40,9 @@ tags:
 			- option + C
 		- change color forward
 			- option + shift + C
+- D2
+	- mermeid 를 기본 지원하지만 mermeid는 tex 지원이 안돼서 안쓰기로 했다..
+	- 
 ### 만드는 Plugin
 - null
 

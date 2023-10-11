@@ -1,11 +1,13 @@
 ---
-title: StyleGAN2
+title: StyleCLIP
 tags:
   - MACHINE_LEARNING
   - COMPUTER_VISION
-  - GAN
   - PAPER_REVIEW
 ---
 
 
-### Visual Feature Disentanglement
+$l_i^KD$ 
+
+$l_i^{KD}$ 
+

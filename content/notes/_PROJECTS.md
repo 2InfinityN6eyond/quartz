@@ -1,5 +1,5 @@
 ---
-title: PROJECTS
+title: PROJECT
 tags:
-  - PROJECTS
+  - PROJECT
 ---
